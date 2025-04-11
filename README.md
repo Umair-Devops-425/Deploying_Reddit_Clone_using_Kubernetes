@@ -26,11 +26,11 @@ Before you begin, ensure you have the following installed:
 1. **Clone the Repository**
 
 ```
-git clone https://github.com/Umair-Devops-425/Umair-Devops-425-Deploying_Reddit_Clone_using_Kubernetes_.git
+git clone https://github.com/Umair-Devops-425/Deploying_Reddit_Clone_using_Kubernetes.git
 ```
 
 ```
-cd Umair-Devops-425-Deploying_Reddit_Clone_using_Kubernetes_
+cd Deploying_Reddit_Clone_using_Kubernetes
 ```
 
 2. Build the Docker Image
